@@ -1,2 +1,2 @@
-# minor-project
+# mini-project
 Repository for minor project
